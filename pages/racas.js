@@ -3,7 +3,7 @@ function Racas(){
     return(<div>
         <h1>Raças</h1>
         <Link href="/">
-        <a>Retornar para página princial.</a>
+        <a>Retornar para página principal.</a>
         </Link>
     </div>)
 }
